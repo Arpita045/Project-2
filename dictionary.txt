@@ -1,0 +1,41 @@
+
+
+['Weird'] very strange and unusual, unexpected, or not natural 
+['aryan'] andoria
+['Absense'] lack of something
+['Approval'] Having a positive opinion of something or someone.
+['Attention'] Noticing or recognizing something of interest.
+['Amount'] A mass or a collection of something.
+['Borrow'] To take something with the intention of returning it after a period of time.
+['Decisive'] a person who can make decisions promptly. 
+['Delusion'] false impression or belief.
+['Deplete'] steady reduction in the quantity or number of something.
+['Feasible'] an activity that is possible. 
+['Feeble'] a person or statement that is unconvincing and weak. 
+['Hostile'] an unfriendly person or situation.
+['Imperative'] an action that is necessary or crucial.
+['Impartial'] a person who is free from preconceived notions or undue bias.  
+['Jostle'] moving through a crowd by means of shoving and pushing. 
+['Imminent'] an event or a situation that is about to occur or close in time.
+['Accomplish'] achieve or complete successfully.
+['Attain']	succeed in achieving.
+['Adapt'] make something suitable for a new use or purpose.
+['Affordable'] reasonably priced.
+['Accompany'] go somewhere with someone as a companion.
+['Apparently'] as far as one knows or can see.
+['Beside']	at the side of; next to.
+['Balance'] an even distribution of weight enabling someone or something to remain upright and steady.
+['Benefit'] an advantage or profit gained from something.
+['Contrast'] the state of being strikingly different from something else in juxtaposition or close association.
+['Collide'] hit with force when moving.
+['Confuse'] cause someone to become bewildered or perplexed.
+['Fable'] a short story typically with animals as characters conveying a moral.
+['Fabulous'] extraordinary.
+['Fantastic'] extraordinarily good or attractive.
+['Discrimination'] the unjust or prejudicial treatment of different categories of people or things especially on the grounds of race age or sex.
+['Imagination']	the action of forming new ideas or images or concepts of external objects not present to the senses
+['Inferior'] Illustrate	provide with pictures
+Imagination	the action of forming new ideas or images or concepts of external objects not present to the senses
+Inferior	lower in rank status or quality
+Impactful	having a major effectlower in rank status or quality
+['Impactful'] having a major effect
